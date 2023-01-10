@@ -1,0 +1,160 @@
+Sass is watching for changes. Press Ctrl-C to stop.
+
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Error: semicolons aren't allowed in the indented syntax.
+   ╷
+27 │   background-image: linear-gradient(to bottom, white, rgb(207, 207, 207));
+   │                                                                          ^
+   ╵
+  bm.sass 27:74  root stylesheet
+
+Compiled bm.sass to bm.css.
+WARNING on line 55, column 1 of bm.sass: 
+This selector doesn't have any properties and won't be rendered.
+   ╷
+55 │ .bookmark_container:hover
+   │ ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Sass is watching for changes. Press Ctrl-C to stop.
+
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Error: expected ":".
+   ╷
+45 │     perspective(750px)
+   │                ^
+   ╵
+  bm.sass 45:16  root stylesheet
+
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Sass is watching for changes. Press Ctrl-C to stop.
+
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Sass is watching for changes. Press Ctrl-C to stop.
+
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.
+Compiled bm.sass to bm.css.

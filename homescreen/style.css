@@ -1,0 +1,101 @@
+#content {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+
+    font-family: coolFont;
+    color: white;
+
+    background-color: #000;
+    background-image: url("./resources/background.gif"), url("./resources/static_background.jpg");
+}
+
+@font-face {
+  font-family: coolFont;
+  src: url("./resources/Potra.ttf");
+}
+
+@keyframes blink {
+    50% {
+        color: transparent;
+    }
+}
+
+.cursor {
+    animation: blink 1s infinite;
+
+    font-style: normal;
+}
+
+* {
+    box-sizing: border-box;
+    cursor: none !important;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background: #000;
+}
+
+#search-container {
+    width: 90vw;
+
+    font-size: 100px;
+
+    text-align: center;
+
+    /* caret-color: transparent; */
+
+    word-wrap: anywhere;
+    overflow-wrap: anywhere;
+    overflow: auto;
+}
+
+#search {
+    border: none;
+    outline: none;
+}
+
+#suggestions {
+    width: 90vw;
+    height: 30px;
+
+    display: flex;
+    flex-direction: row;
+
+    font-size: 30px;
+
+    align-items: center;
+    justify-content: center;
+
+    outline: 0;
+}
+
+.suggestion {
+    flex: 1;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    text-align: center;
+
+    padding-right: 1vw;
+    padding-left: 1vw;
+
+    opacity: .4;
+    outline: 0;
+}
+
+.selected {
+    opacity: 1;
+}
+
+/*# sourceMappingURL=style.css.map */
