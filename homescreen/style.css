@@ -51,7 +51,7 @@ html, body {
 
     text-align: center;
 
-    /* caret-color: transparent; */
+    caret-color: transparent;
 
     word-wrap: anywhere;
     overflow-wrap: anywhere;
