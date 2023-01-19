@@ -117,6 +117,7 @@ suggest.addEventListener('keydown', event => {
     let current = document.activeElement;
 
     if (inp === 'ArrowUp') {
+        event.preventDefault();
         divs.removeClass('selected');
         search.focus();
         setCaret();
